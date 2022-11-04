@@ -17,15 +17,25 @@
    check this [link](https://www.kaspersky.co.in/blog/unknown-apps-android/23264/).
   5. after installed successfully then enter in input field which URL you want.for example [https://www.youtube.com.]
   6. then you get into the app then use ad-free(Youtube).
-  
+    
 
   
 
 # Warning
   - It's only for education purpose and currently under development.
   - **Please don't make any ONLINE TRANSACTION and Sign in to any website (included youtube)**.
-  - **HACKIO now and never ask for special permissions(Camera, microphone , Storage ....) and you can use this app for just for browsing with annonymously.**
+  - **HACKIO now and never ask for special permissions(Camera, microphone , Storage ....) and you can use this app for just for browsing and know how adblockers worked.**
   - Currently it will block several sites only not all.
 
 
 **Contains no advertisement**
+
+
+# About 
+To learn hacking in tamil check this link 
+
+ - Instagram Link: [hackIO_official](https://www.instagram.com/hackio_official/)
+- Youtube Link: [Hack IO](https://youtube.com/@hackio_official)
+
+- Any suggestion ,problems or queries with this repo contact me through Instagram Link.
+
