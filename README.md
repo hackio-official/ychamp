@@ -4,7 +4,7 @@
   
   
 # Installation
-  1. First, check the integrity of the zip file with below checksum then only install this applications.
+  1. First, check the integrity of the [zip](https://github.com/hackio-official/ychamp/blob/master/ychamp.zip) file with this [checksum](https://github.com/hackio-official/ychamp/blob/master/checksum.txt) then only install this applications.
   
 > `3122cdc188b4f1498459790bf088a009fb68630bd3970d986af7ac90e66f637a97e9c94da4171d4522c0eeb7d98a117cfbc7faaaff1059363d328fa6b050b637  ychamp.zip`
   2. command to check 
