@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ychamp</string>
+    <string name="enter_sitename">Enter Sitename</string>
+    <string name="paste_url">https://</string>
+    <string name="set_as_default">Set as default</string>
+    <string name="cancel">Cancel</string>
+    <string name="readne">This app is developed by <b><u>hackio_official.</u></b>\n Its currently under development and<u><b> please don\'t use your credentials or try to login any site .\n\n <u><b>HACKIO doesn\'t implement sigin functionality through out this app\'s entire lifetime.
+    </b></u>Please don\'t give your any password or online payment transactions in this app</b></u>\n\n\n You can type any site you want to browse one at a time \n\n Note: only for education purpose and its under development crash may occur If you had any idea or any suggestions contact me through\n  myinstagram channel page: @hackio_official\n\n
+
+Warning :\n\n
+We don\'t implement any protection for storing cookies .So you use this app only for browsing and please DON\'T USE THIS APP TO MAKE ANY ONLINE MONEY TRANSACTIONS AND SIGNIN ON ANY WEBSITE AND DON\'T DO ANYTHIS WRONG .
+</string>
+    <string name="github"><u>@hackio_official</u> and you can find this app code in github</string>
+    <string name="dowloader">dowloader</string>
+    <string name="settings">Settings</string>
+    <string name="read_me">Read Me</string>
+    <string name="reload_option">Reload</string>
+    <string name="play_without_ads">Play without ads</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/history_menu"
+        android:title="History"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item android:id="@+id/download1"
+        android:title="@string/dowloader"
+        android:icon="@drawable/ic_baseline_link_24"
+        />
+
+    <item android:id="@+id/settings1"
+        android:title="@string/settings"/>
+
+    <item android:title="@string/read_me"
+        android:id="@+id/about1"
+        />
+    <item android:icon="@drawable/ic_baseline_replay_24"
+        android:id="@+id/reload1"
+        app:showAsAction="ifRoom"
+        android:title="@string/reload_option" />
+    <item android:icon="@drawable/ic_baseline_play_circle_outline_24"
+        app:showAsAction="always"
+        android:id="@+id/real1"
+        android:title="@string/play_without_ads"/>
+
+</menu>

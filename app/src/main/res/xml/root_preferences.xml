@@ -1,0 +1,46 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="Setup">
+
+        <EditTextPreference
+            app:key="default_url"
+            app:title="SET DEFAULT URL"
+            app:defaultValue="https://"
+            app:summary="By setting url app just launch this url by default"
+            app:useSimpleSummaryProvider="true" />
+
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:title="DATABASE">
+        <Preference
+            app:summary="delete History List"
+            app:title="Delete History"
+            app:key="delete_all_history"
+            />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="About">
+
+        <Preference
+            app:key="about"
+            app:title="What?"
+            app:summary="Ychamp is an free and open source android application" />
+
+        <Preference
+
+            app:key="attachment"
+            app:summary="Nowadays, ads are more irritating and wasting our time .In a research a average person watching 100s of advertisement on internet in single day.Actually HackIO is not against to advertisement but against imposition of ads"
+            app:title="Why?" />
+
+        <Preference
+            app:title="VERSION"
+            app:summary="1.0.0"
+            />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
