@@ -31,7 +31,8 @@
 **Contains no advertisement**
 
 # Complete installation video 
-(Instagram installation video)[https://www.instagram.com/p/Cki0LPXuUmc/]
+ - [installation video on instagram](https://www.instagram.com/p/Cki0LPXuUmc/)
+ - [installation video on Youtube](https://youtu.be/jOqBkeW3dfA)
 
 
 # About 
