@@ -4,7 +4,7 @@
   
   
 # Installation
-  1. [Download Ychamp from playstore](https://play.google.com/store/apps/details?id=com.hackio.ychamp&hl=en_IN&gl=US&pli=1) 
+  1. Download Ychamp from [playstore](https://play.google.com/store/apps/details?id=com.hackio.ychamp&hl=en_IN&gl=US&pli=1) 
   2. after installed successfully then enter in input field which URL you want.for example [https://www.youtube.com.]
   3. then you get into the app then use ad-free(Youtube).
     
