@@ -29,12 +29,12 @@
             android:value="true" />
 
         <activity
-            android:name=".Readme"
+            android:name=".read_class"
             android:exported="false"
-            android:value=""></activity>
+            android:value=""/>
         <activity
             android:name=".Settings_Activity"
-            android:exported="false"></activity>
+            android:exported="false"/>
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"

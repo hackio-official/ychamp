@@ -14,7 +14,6 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -298,7 +297,7 @@ if(weburl==null) {
                 startActivity(intent);
                 break;
             case R.id.about1:
-                Intent intent2 = new Intent(getApplicationContext(), Readme.class);
+                Intent intent2 = new Intent(getApplicationContext(), read_class.class);
                 startActivity(intent2);
                 break;
             case R.id.reload1:

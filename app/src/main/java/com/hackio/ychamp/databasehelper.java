@@ -37,17 +37,17 @@ public class databasehelper extends SQLiteOpenHelper {
         db.execSQL(q);
     }
     public void add_history(String url, String title) {
-        if (!url.equals("")&&!title.equals(""))
+        if (!url.equals("")&&!title.equals("about:blank"))
         {
-            Log.e("url", url);
         SQLiteDatabase db = this.getWritableDatabase();
            if(check(url)) {
                 return;
             }
-        db.execSQL("INSERT INTO " + table + " (" + col_url + "," + title_column + ") VALUES  ('" + url + "','" + title + "')");
-        //    mydbhelp.execSQL("INSERT INTO saved(word_id) VALUES  ('" + word_id + "')");
+           String tamper_url=url.replace("'","");
+           String title_tamper=title.replace("'","");
 
-        Log.e("qqq", url + " inserted");
+            db.execSQL("INSERT INTO " + table + " (" + col_url + "," + title_column + ") VALUES  ('" + tamper_url+ "','" + title_tamper + "')");
+
 
     }
     }
